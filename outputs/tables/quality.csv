@@ -1,0 +1,9 @@
+﻿Cot,Kieu_du_lieu,So_thieu,Ty_le_thieu_pct,So_gia_tri_khac_nhau
+InvoiceNo,object,0,0.0,25900
+StockCode,object,0,0.0,4070
+Description,object,1454,0.2683107311375157,4223
+Quantity,int64,0,0.0,722
+InvoiceDate,datetime64[us],0,0.0,23260
+UnitPrice,float64,0,0.0,1630
+CustomerID,float64,135080,24.926694334288598,4372
+Country,str,0,0.0,38

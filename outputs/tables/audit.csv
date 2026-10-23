@@ -1,0 +1,8 @@
+﻿Buoc,So_dong,Quy_tac
+Dữ liệu thô,541909,Giữ nguyên 8 cột nguồn; 1 dòng là 1 dòng hàng
+Giao dịch bán hợp lệ,530104,"Không mã C, Quantity > 0, UnitPrice > 0; đủ khóa và ngày"
+Giao dịch hủy hợp lệ,9288,"Mã C, Quantity < 0, UnitPrice > 0; đủ khóa và ngày"
+Dòng bất thường / không hợp lệ,2517,Phần còn lại; lưu riêng để kiểm tra
+Bán có mã khách hàng,397884,Chỉ tập này được dùng phân tích khách hàng
+Bán thiếu mã khách hàng,132220,Vẫn giữ trong doanh số
+Dòng trùng hoàn toàn (sau dòng đầu),5268,Giữ lại: chưa có bằng chứng là lỗi nhập lặp

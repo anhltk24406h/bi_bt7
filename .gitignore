@@ -1,0 +1,11 @@
+.packages/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter_runtime/
+data/processed/
+data/raw/*.zip
+outputs/preview/
+submission/
+bai_nop_visual_analytics.zip
+.publish_github.py

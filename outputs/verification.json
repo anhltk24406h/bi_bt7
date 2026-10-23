@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "pdf_pages": 10,
+  "executed_code_cells": 12,
+  "figures": 6,
+  "raw_rows": 541909,
+  "sales": 10666684.544,
+  "checks": [
+    "notebook executed without errors",
+    "6 embedded notebook figures",
+    "10 PDF pages with Vietnamese text",
+    "figures on pages 4–9",
+    "PDF metrics match exported tables",
+    "no text outside page bounds",
+    "unique orders and sales reconciliation",
+    "row partition reconciliation"
+  ]
+}
